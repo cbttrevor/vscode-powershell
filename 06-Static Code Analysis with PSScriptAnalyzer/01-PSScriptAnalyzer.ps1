@@ -1,0 +1,3 @@
+gci | Where-Object { }
+
+- 
